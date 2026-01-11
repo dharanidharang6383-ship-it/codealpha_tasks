@@ -84,7 +84,7 @@ Sentiment analysis plays a crucial role in understanding customer feedback, soci
 
 👤 Author
 
-Name: Yogesh S
+Name: Dharanidharan G
 
 Domain: Data Analytics
 
